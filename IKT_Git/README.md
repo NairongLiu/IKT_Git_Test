@@ -1,6 +1,2 @@
 test
-
-local update
-
-
-
+remote update
