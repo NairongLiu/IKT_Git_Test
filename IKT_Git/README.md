@@ -1,2 +1,2 @@
 test
-remote update
+local update
